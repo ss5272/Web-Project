@@ -1,0 +1,40 @@
+html{
+	height: 100%;
+}
+
+.container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.img-thumbnail{
+    width: 100%;
+}
+.img-thumbnail img{
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.list-group i{
+    position: relative;
+    top: 5px;
+}
+
+.caption{
+    padding: 8px;
+}
+
+.comment{
+    padding-top: 20px;
+}
+
+.delete-form {
+    display: inline;
+}

@@ -1,0 +1,35 @@
+html{
+	height: 100%;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.body_p{
+    padding: 20px;;
+}
+
+.jumbotron{
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border-radius: 0 !important;
+	background-position: center;
+    background-repeat: no-repeat;
+  	background-size: cover;
+    height: 20rem;
+    color: white;  
+}
+
+
+.content{
+	text-align: center;
+}
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
